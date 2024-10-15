@@ -3,12 +3,12 @@ entries:
   php-mysql-redis-mq-stack:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-14T11:27:14.963652313+08:00"
+    created: "2024-10-15T10:44:12.938371462+08:00"
     description: A Helm chart for Kubernetes
-    digest: 8879d3c6ed83e0ae3d01c4f62b93cff4dfffa5458480782602d1f7df76846312
+    digest: 0c056ab8a42285a22d168c983f0eb9e14a2069894286eaf7d5f39b7598ec8b5c
     name: php-mysql-redis-mq-stack
     type: application
     urls:
-    - https://github.com/lzt-Warehouse/warehouse/php-mysql-redis-mq-stack-0.1.0.tgz
+    - https://raw.githubusercontent.com/lzt-Warehouse/warehouse/main/php-mysql-redis-mq-stack-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-14T11:27:14.962108715+08:00"
+generated: "2024-10-15T10:44:12.937740178+08:00"
